@@ -1,0 +1,181 @@
+{
+  "books": [
+    {
+      "title": "Bhagavad Gita",
+      "author": "Vyasa",
+      "type": "Religious Books",
+      "genre": "Spiritual Philosophy",
+      "year": "Ancient (around 2nd century BCE)",
+      "image": "https://m.media-amazon.com/images/I/71jWK5-fBML.jpg",
+      "shortDesc": "Bhagavad Gita is one of the most respected Hindu scriptures and is widely regarded as a spiritual guide to life. It is presented as a conversation between Lord Krishna and Arjuna on the battlefield of Kurukshetra.",
+      "fullDesc": "Bhagavad Gita is one of the most respected Hindu scriptures and is widely regarded as a spiritual guide to life. It is presented as a conversation between Lord Krishna and Arjuna on the battlefield of Kurukshetra. In the dialogue, Krishna teaches Arjuna about duty, righteousness, karma, devotion, and wisdom. The book contains 18 chapters and 700 verses that explain how to live a meaningful and disciplined life. It encourages self-control, spiritual growth, and devotion to truth and duty. Many scholars and readers consider the Bhagavad Gita a timeless source of knowledge and inspiration. Today, it is read around the world for peace, guidance, and inner strength.",
+      "id": "AIdXq5BavFs"
+    },
+    {
+      "title": "Ramayana",
+      "author": "Valmiki",
+      "type": "Religious Books",
+      "genre": "Epic Literature",
+      "year": "Ancient",
+      "image": "https://tse4.mm.bing.net/th/id/OIP.wdjDa6UKdfbInpwSTB7c9QHaMR?r=0&rs=1&pid=ImgDetMain&o=7&rm=3",
+      "shortDesc": "The Ramayana is one of the greatest epics of ancient India, written by Valmiki. It tells the story of Lord Rama, his wife Sita, and his loyal brother Lakshmana. ",
+      "fullDesc": "The Ramayana is a famous Hindu epic composed by the sage Valmiki. It narrates the life and journey of Lord Rama, the prince of Ayodhya, who is known for his honesty, bravery, and righteousness. Rama was sent into exile for fourteen years along with his wife Sita and brother Lakshmana. During their exile, Sita was kidnapped by the demon king Ravana, who ruled Lanka. To rescue her, Rama formed an alliance with the monkey king Sugriva and the devoted Hanuman. Hanuman played a major role in finding Sita and helping Rama. A great battle took place between Rama and Ravana, where Rama defeated Ravana and saved Sita. After completing the exile, Rama returned to Ayodhya and became king. The Ramayana teaches moral values such as duty, respect, sacrifice, and devotion. It continues to inspire people through stories, festivals, and cultural traditions across India and many other countries.",
+      "id": "_4B4HKxXAe0"
+    },
+    {
+      "title": "Mahabharata",
+      "author": "Vyasa",
+      "type": "Religious Books",
+      "genre": "Epic Literature",
+      "year": "Ancient",
+      "image": "https://cdn01.sapnaonline.com/product_media/9788181334718/md_9788181334718.jpg",
+      "shortDesc": "The Mahabharata is one of the longest and greatest epics of ancient India. It was written by sage Vyasa. The story is mainly about the conflict between the Pandavas and the Kauravas for the throne of Hastinapur.",
+      "fullDesc": "The Mahabharata is a famous Hindu epic written by sage Vyasa. It tells the story of the rivalry between the Pandavas and the Kauravas, two groups of cousins fighting for the kingdom of Hastinapur. The five Pandava brothers were Yudhishthira, Bhima, Arjuna, Nakula, and Sahadeva. The Kauravas, led by Duryodhana, were jealous of the Pandavas and tried many times to defeat them unfairly. This rivalry finally led to the great Kurukshetra War. Before the war, Lord Krishna guided Arjuna and delivered the teachings of the Bhagavad Gita. The war lasted for eighteen days and resulted in heavy destruction. In the end, the Pandavas won the battle and restored justice. The Mahabharata explains important values such as truth, duty, loyalty, and the consequences of greed and anger. It remains one of the most respected and influential epics in Indian culture and literature.",
+      "id": "kH7mqI0QvLs"
+    },
+    {
+      "title": "Quran",
+      "author": "Revealed to Prophet Muhammad",
+      "type": "Religious Books",
+      "genre": "Holy Scripture",
+      "year": "7th Century CE",
+      "image": "https://m.media-amazon.com/images/I/71Nfuv5GrbL._SL1294_.jpg",
+      "shortDesc": "The Quran is the holy book of Islam and is believed to be the word of Allah revealed to Prophet Muhammad. It was revealed over a period of about 23 years through the angel Gabriel. ",
+      "fullDesc": "The Quran is the central religious text of Islam and is regarded by Muslims as the direct word of Allah. It was revealed to Prophet Muhammad through the angel Gabriel over approximately 23 years. The Quran is written in Arabic and consists of 114 chapters called Surahs. It contains teachings about faith, worship, morality, justice, and guidance for personal and social life. Muslims believe the Quran provides the correct path for humanity and encourages kindness, honesty, patience, and compassion. It also tells stories of earlier prophets such as Adam, Noah, Moses, and Jesus. The Quran emphasizes the importance of prayer, charity, fasting, and helping others. Muslims recite verses from the Quran during daily prayers and religious occasions. It is considered a source of spiritual wisdom and moral guidance for millions of people worldwide. The Quran continues to influence Islamic culture, traditions, laws, and values across the world.",
+      "id": "OnvJgNQexsU"
+    },
+    {
+      "title": "Shivaji and His Times",
+      "author": "Jadunath Sarkar",
+      "type": "Historical Books",
+      "genre": "History / Biography",
+      "year": "1919",
+      "image": "https://m.media-amazon.com/images/I/51MCX3HiPCL.jpg",
+      "shortDesc": "The book describes the life and achievements of Chhatrapati Shivaji Maharaj. It explains how Shivaji built the Maratha Empire with courage and intelligence. The author presents important battles, administration, and military strategies. The book is considered an important source of Maratha history.",
+      "fullDesc": "Shivaji and His Times is a famous historical work written by Jadunath Sarkar. The book explains the life of Chhatrapati Shivaji Maharaj and the rise of the Maratha Empire in India. It describes Shivaji’s bravery, leadership, and vision for self-rule. The author explains many important events such as the capture of forts and battles against Mughal forces. The book also discusses Shivaji’s administration and naval power. It highlights his respect for all religions and people. Detailed information about political conditions during that period is included. The language of the book is scholarly and informative. Historians consider it one of the most trusted books on Shivaji Maharaj. The book remains valuable for students and readers interested in Maharashtra history.",
+      "id": "_bJY7wgfOWw"
+    },
+    {
+      "title": "Panipat",
+      "author": "Vishwas Patil",
+      "type": "Historical Books",
+      "genre": "War / History",
+      "year": "1988",
+      "image": "https://images-eu.ssl-images-amazon.com/images/I/41PE5QsKf6L.jpg",
+      "shortDesc": "The book is based on the Third Battle of Panipat fought in 1761. It shows the struggle between the Marathas and Afghan forces. The novel presents bravery, sacrifice, and political conflicts. It is one of the most famous historical novels in Marathi literature.",
+      "fullDesc": "Panipat is a well-known Marathi historical novel written by Vishwas Patil. The story is based on the Third Battle of Panipat between the Marathas and Ahmad Shah Abdali. The novel gives a detailed picture of war, politics, and human emotions. It explains the courage and sacrifices of Maratha warriors. Important historical characters are presented realistically in the story. The author describes the pain and destruction caused by the battle. The novel also shows the unity and determination of the Maratha army. Readers can understand the historical importance of the Panipat battle through this book. The writing style is emotional and powerful. The book received great appreciation in Maharashtra and became very popular among history lovers.",
+      "id": "T-vahVTPLAI"
+    },
+    {
+      "title": "Mrityunjaya",
+      "author": "Shivaji Sawant",
+      "type": "Historical Books",
+      "genre": "Mythological Historical Novel",
+      "year": "1967",
+      "image": "https://bookstation.in/cdn/shop/files/Screenshot-20230907_182221_Google.jpg?v=1694091246",
+      "shortDesc": "The novel tells the story of Karna from the Mahabharata. It presents his struggles, bravery, and sacrifices. The author explains Karna’s life from different viewpoints. The book is highly respected in Marathi literature.",
+      "fullDesc": "Mrityunjaya is a famous Marathi novel written by Shivaji Sawant. The book is based on the life of Karna, an important character from the Mahabharata. It explains his pain, struggles, loyalty, and bravery in great detail. The novel presents Karna as a noble and tragic hero. Different characters narrate their opinions about Karna throughout the story. The author beautifully describes friendship, honor, and destiny. The emotional depth of the novel makes it unique and memorable. Readers learn about moral values and human emotions through the story. The novel became extremely popular in Maharashtra and other parts of India. It is considered one of the greatest works of Marathi literature.",
+      "id": "kLxktv2dAqI"
+    },
+    {
+      "title": "Shriman Yogi",
+      "author": "Ranjit Desai",
+      "type": "Historical Books",
+      "genre": "Biography / History",
+      "year": "1962",
+      "image": "https://tse4.mm.bing.net/th/id/OIP.rEz_Da-3ziOHpXudnXnCywHaJQ?r=0&rs=1&pid=ImgDetMain&o=7&rm=3",
+      "shortDesc": "The book is based on the life of Chhatrapati Shivaji Maharaj. It explains his journey from childhood to becoming a great king. The novel describes battles, administration, and leadership qualities. It is one of the most loved historical novels in Maharashtra.",
+      "fullDesc": "Shriman Yogi is a celebrated historical novel written by Ranjit Desai. The book presents the inspiring life of Chhatrapati Shivaji Maharaj in a detailed and engaging way. It describes Shivaji’s childhood, dreams, and determination to establish Swarajya. The novel explains important battles and political strategies used by Shivaji Maharaj. It also highlights his respect for women, justice, and administration. The emotional and realistic storytelling attracts many readers. Historical events are presented with rich details and strong character development. The book helps readers understand Maharashtra’s glorious history and culture. It became highly popular among Marathi readers and students. Even today, it is considered a masterpiece of Marathi historical literature.",
+      "id": "O0lA5bpfEXE"
+    },
+    {
+      "title": "The Alchemist",
+      "author": "Paulo Coelho",
+      "type": "Fiction/Novels",
+      "genre": "Paulo Coelho",
+      "year": "1988",
+      "image": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1654371463i/18144590.jpg",
+      "shortDesc": "The story follows a shepherd boy named Santiago who dreams of finding treasure. He travels across deserts and meets many people during his journey. The novel teaches the importance of following dreams and listening to the heart. It is one of the most popular inspirational novels in the world.",
+      "fullDesc": "The Alchemist is a famous fiction novel written by Paulo Coelho. The story is about Santiago, a young shepherd from Spain who dreams about hidden treasure near the pyramids of Egypt. He decides to leave his comfortable life and follow his dream. During his journey, he meets a king, a crystal merchant, and an alchemist who guide him with wisdom. The novel teaches important lessons about courage, destiny, and self-discovery. It explains that every person has a “Personal Legend” or life purpose. The simple language and deep meaning make the book inspiring for readers of all ages. The story also highlights faith, hope, and determination. The novel became an international bestseller and was translated into many languages. It continues to motivate millions of readers around the world.",
+      "id": "tI5fnHnfQxo"
+    },
+    {
+      "title": "Harry Potter and the Philosopher's Stone",
+      "author": "J. K. Rowling",
+      "type": "Fiction/Novels",
+      "genre": "Fantasy / Adventure",
+      "year": "1997",
+      "image": "https://m.media-amazon.com/images/I/81q77Q39nEL.jpg",
+      "shortDesc": "The novel tells the story of a young wizard named Harry Potter. He discovers his magical powers and joins Hogwarts School of Witchcraft and Wizardry. Harry makes new friends and faces dangerous challenges. The book became one of the most loved fantasy novels worldwide.",
+      "fullDesc": "Harry Potter and the Philosopher's Stone is the first book in the Harry Potter series written by J. K. Rowling. The story begins with Harry Potter, an orphan boy living with his cruel relatives. On his eleventh birthday, he learns that he is a wizard. Harry joins Hogwarts School, where he studies magic and makes close friends like Ron and Hermione. He also discovers secrets about his parents and the dark wizard Voldemort. The novel is filled with magical creatures, spells, and adventures. Themes of friendship, bravery, and good versus evil are strongly presented. The imaginative storytelling made the book popular among children and adults. It received worldwide success and inspired movies, games, and merchandise. The novel remains one of the greatest fantasy books ever written.",
+      "id": "wQvsGCFwPn0"
+    },
+    {
+      "title": "Pride and Prejudice",
+      "author": "Jane Austen",
+      "type": "Fiction/Novels",
+      "genre": "Romance / Classic Literature",
+      "year": "1813",
+      "image": "https://m.media-amazon.com/images/I/71CvWDPcVEL._UF1000,1000_QL80_.jpg",
+      "shortDesc": "The novel tells the story of Elizabeth Bennet and Mr. Darcy. It explores love, pride, family, and social expectations in England. The book is known for its humor and strong characters. It is considered a masterpiece of English literature.",
+      "fullDesc": "Pride and Prejudice is a famous novel written by Jane Austen. The story focuses on Elizabeth Bennet, an intelligent and independent young woman. She meets the wealthy but proud Mr. Darcy, and misunderstandings create tension between them. As the story progresses, both characters learn important lessons about pride, prejudice, and relationships. The novel also describes family life and marriage in nineteenth-century England. Jane Austen uses humor and sharp observations to present society realistically. The strong personalities of the characters make the story memorable. Themes of love, respect, and personal growth are central to the novel. The book became one of the most celebrated works in English literature. Even today, readers admire its storytelling and timeless message.",
+      "id": "w8DQQQQDGP4"
+    },
+    {
+      "title": "Wings of Fire",
+      "author": "A. P. J. Abdul Kalam",
+      "type": "Fiction/Novels",
+      "genre": "Autobiographical Fiction / Inspirational",
+      "year": "1999",
+      "image": "https://m.media-amazon.com/images/I/81hBAhECiHL._SL1500_.jpg",
+      "shortDesc": "The book describes the life journey of A. P. J. Abdul Kalam. It explains his childhood, education, and scientific achievements. The story inspires readers to work hard and achieve their dreams. The book is very popular among students in India.",
+      "fullDesc": "Wings of Fire is an inspiring autobiography written by A. P. J. Abdul Kalam with Arun Tiwari. The book explains Kalam’s journey from a small town in Tamil Nadu to becoming a respected scientist and President of India. It describes his childhood struggles, education, and dedication to learning. The author shares experiences from his work in India’s space and missile programs. The book highlights the importance of hard work, discipline, and determination. Kalam also discusses the people who influenced and supported him throughout his life. The simple and motivational writing style makes the book easy to understand. Readers feel inspired by his positive attitude and vision for India. The autobiography encourages young people to dream big and never give up. It remains one of the most loved inspirational books in India.",
+      "id": "1rNcWmAQFPY"
+    },
+    {
+      "title": "A Brief History of Time",
+      "author": "Stephen Hawking",
+      "type": "Educational Books",
+      "genre": "Stephen Hawking",
+      "year": "1988",
+      "image": "https://m.media-amazon.com/images/I/71nVaKxpR2L._SL1200_.jpg",
+      "shortDesc": "The book explains complex ideas about space, time, and the universe in simple language. It discusses black holes, gravity, and the Big Bang theory. The author makes scientific concepts easier for common readers. It became one of the most famous science books in the world.",
+      "fullDesc": "A Brief History of Time is a well-known educational book written by Stephen Hawking. The book explains scientific topics related to the universe and modern physics. It discusses concepts such as black holes, the Big Bang, time travel, and gravity. The author presents difficult theories in a simple and understandable manner for ordinary readers. The book encourages curiosity about space and the mysteries of the universe. Hawking also explains the work of famous scientists like Newton and Einstein. The writing style is informative yet engaging. Readers gain knowledge about how the universe was formed and how it functions. The book became an international bestseller and inspired many students toward science. It remains one of the most influential educational science books ever written.",
+      "id": "SriiaRD6OZ4"
+    },
+    {
+      "title": "The Elements of Style",
+      "author": "William Strunk Jr. and E. B. White",
+      "type": "Educational Books",
+      "genre": "Language / Writing",
+      "year": "1899",
+      "image": "https://betweenthecovers.cdn.bibliopolis.com/pictures/535234.jpg?auto=webp&v=1654879225",
+      "shortDesc": "The book teaches correct English writing and grammar rules. It explains how to write clearly and effectively. Many students and writers use it to improve communication skills. It is considered a classic guide for English writing.",
+      "fullDesc": "The Elements of Style is a famous educational book written by William Strunk Jr. and later revised by E. B. White. The book provides practical rules for English grammar, punctuation, and style. It teaches writers how to express ideas clearly and simply. The authors emphasize the importance of concise and direct writing. Examples and explanations help readers understand common mistakes in English. Students, teachers, and professional writers widely use this guide. The book improves sentence structure and communication skills. Its simple language makes learning easy for beginners. The guide has remained popular for many decades because of its usefulness. It continues to help people write effective and professional English.",
+      "id": "VmvyP-1e4wk"
+    },
+    {
+      "title": "Rich Dad Poor Dad",
+      "author": "Robert Kiyosaki",
+      "type": "Educational Books",
+      "genre": "Finance / Self-help",
+      "year": "1997",
+      "image": "https://i1.wp.com/akshayiyer.net/wp-content/uploads/2020/08/Rich-Dad-Poor-Dad.jpg?fit=800,800&ssl=1",
+      "shortDesc": "The book teaches financial education and money management skills. It compares the thinking styles of a rich father and a poor father. Readers learn the importance of investment and financial independence. The book became very popular worldwide.",
+      "fullDesc": "Rich Dad Poor Dad is an educational and motivational book written by Robert Kiyosaki. The author compares lessons learned from his “rich dad” and “poor dad.” The book explains the difference between assets and liabilities in simple language. It encourages readers to develop financial knowledge and investment habits. The author emphasizes the importance of saving money and creating passive income. The book challenges traditional ideas about jobs and financial security. Many readers find the examples practical and easy to understand. It motivates people to think differently about wealth and business. The book became highly successful and influenced millions of readers worldwide. It is considered one of the most famous personal finance books.",
+      "id": "DXosjJqY9TU"
+    },
+    {
+      "title": "The Discovery of India",
+      "author": "Jawaharlal Nehru",
+      "type": "Educational Books",
+      "genre": "History / Culture",
+      "year": "1946",
+      "image": "https://cloudfront.penguin.co.in/wp-content/uploads/2020/08/9780143031031-scaled.jpg",
+      "shortDesc": "The book explains the history and cultural heritage of India. It was written during India’s freedom struggle. The author describes Indian civilization, philosophy, and traditions. The book is important for understanding Indian history and identity.",
+      "fullDesc": "The Discovery of India is a famous educational book written by Jawaharlal Nehru. The book was written while Nehru was imprisoned during the Indian freedom movement. It explores the rich history, culture, and traditions of India from ancient to modern times. The author discusses religion, philosophy, art, science, and political developments in Indian civilization. The book explains how different cultures influenced India throughout history. Nehru also describes the struggle for independence from British rule. The writing style is thoughtful and informative. Readers gain deep knowledge about India’s heritage and national identity. The book became an important part of Indian historical literature. It continues to educate and inspire students and readers interested in Indian history.",
+      "id": "nsmjQp3Bvfc"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
